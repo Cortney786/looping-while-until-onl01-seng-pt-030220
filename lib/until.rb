@@ -12,8 +12,5 @@ def using_until
   
 end
 
-def using_while
-  
-end
 
 
