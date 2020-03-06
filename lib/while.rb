@@ -1,6 +1,6 @@
 
 # puts Wingardium Leviosa
-# using_until levitation force is incremented to 10
+# using_while levitation force is incremented to 10
 # counter = 1
 
 def using_while 
@@ -9,5 +9,4 @@ def using_while
     puts "Wingardium Leviosa"
   	levitation_force += 1
   end
-
 end
